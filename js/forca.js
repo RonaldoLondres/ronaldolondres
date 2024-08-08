@@ -234,6 +234,10 @@ function carregaListaAutomatica(){
             nome: "TESTICULOS",
             categoria:"Onde são produzidos os espermatozoides?"
         },  
+        palavra007 = {
+            nome: "UTERO",
+            categoria:"Orgão feminino onde o bebê se desenvolve?"
+        },  
     ];
 }
 
