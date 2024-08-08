@@ -230,6 +230,10 @@ function carregaListaAutomatica(){
             nome: "NAO",
             categoria:"Edson vai gostar do jogo?"
         },
+        palavra006 = {
+            nome: "TESTICULOS",
+            categoria:"Onde são produzidos os espermatozoides?"
+        },  
     ];
 }
 
